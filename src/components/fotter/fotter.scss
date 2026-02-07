@@ -1,0 +1,25 @@
+.fotter{
+    width: 1200px;
+    margin: auto;
+    background-color: white;
+
+    &__box{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 1000px;
+        margin: auto;
+        padding: 30px;
+    }
+
+    &__icon{
+        display: flex;
+        gap: 10px;
+    }
+
+    &__f{
+        width: 46px;
+        height: 25px;
+        color: #FA4A0C;
+    }
+}
