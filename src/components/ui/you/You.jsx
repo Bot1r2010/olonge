@@ -1,6 +1,6 @@
 import React from 'react'
 import "./you.scss";
-import img from '../../img/check.png';
+import img from '../../../assets/img/check.png';
 
 export const You = () => {
   return (

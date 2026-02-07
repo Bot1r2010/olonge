@@ -1,6 +1,6 @@
 import React from 'react'
 import "./fotter.scss";
-import logo from '../img/logo.png'
+import logo from '../../assets/img/logo.png'
 import { FaTwitter, FaFacebook, FaInstagram } from "react-icons/fa";
 
 

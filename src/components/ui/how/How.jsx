@@ -1,6 +1,6 @@
 import React from 'react'
 import "./how.scss";
-import img from '../../img/creaet.png'
+import img from '../../../assets/img/creaet.png'
 
 export const How = () => {
   return (

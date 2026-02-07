@@ -1,6 +1,6 @@
 import React from 'react'
 import "./shop.scss";
-import img from '../../img/shop.png';
+import img from '../../../assets/img/shop.png';
 
 export const Shop = () => {
   return (
